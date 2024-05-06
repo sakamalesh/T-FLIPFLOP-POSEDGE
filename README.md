@@ -44,7 +44,8 @@ From the above characteristic table, we can directly write the next state equati
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
 
-![Exp3 t wave](https://github.com/kaviya546/Experiment--05-Implementation-of-flipflops-using-verilog/assets/150368823/16c4580f-cbf7-4ade-a7e9-9377a920c02e)
+![image-1](https://github.com/sakamalesh/T-FLIPFLOP-POSEDGE/assets/149148235/e7c73243-2fc9-4dab-9c64-c432e3ae8bab)
+
 
 
 **RESULTS**
